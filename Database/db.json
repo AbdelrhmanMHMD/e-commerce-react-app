@@ -1,0 +1,25 @@
+{
+  "products": [
+    {
+      "name": "Burger",
+      "price": "30",
+      "tocart": true,
+      "numInCart": 0,
+      "id": 4
+    },
+    {
+      "name": "Fries",
+      "price": 20,
+      "tocart": true,
+      "numInCart": 0,
+      "id": 2
+    },
+    {
+      "name": "Cola",
+      "price": "10",
+      "tocart": true,
+      "numInCart": 0,
+      "id": 3
+    }
+  ]
+}
